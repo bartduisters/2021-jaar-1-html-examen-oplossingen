@@ -14,9 +14,8 @@ body > nav {
   background-color: #333333;
   padding: 1em;
   display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
+  gap: 1em;
+  flex-wrap: wrap;
 }
 
 #page-nav > * {

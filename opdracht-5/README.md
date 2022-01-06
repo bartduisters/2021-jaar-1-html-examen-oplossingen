@@ -23,4 +23,20 @@ Bijvoorbeeld: `<div>` is een niet-semantisch HTML-element, `div` omschrijft niet
 
 ## Resultaat
 
-![basis.html](resultaat/hallo-wereld.png)
+### extra.html
+
+![extra.html](resultaat/extra.png)
+
+### contact.html
+
+![contact.html](resultaat/contact.png)
+
+### index.html
+
+#### zichtbaar
+
+![index.html](resultaat/index-visible.png)
+
+#### volledig
+
+![index.html](resultaat/index-full.png)
